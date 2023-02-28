@@ -1,0 +1,62 @@
+
+body{
+    background-image: linear-gradient(rgb(182, 182, 231),rgb(235, 148, 148),white);
+    background-repeat: no-repeat;
+}
+.navcompo{
+    background-color: navy;
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    
+    
+}
+.navcontent{
+    text-decoration: none;
+    color: white;
+}
+.btn{
+    border: 1px solid black;
+    padding: 10px;
+    width: 20%;
+    border-radius: 30px;
+    position: relative;
+    bottom: 50px;
+    left: 1150px;
+    width: 322px;
+    border-radius: 27px;
+    font-size: 20px
+}
+
+.data{
+  width: 90%;
+  border: 1px solid white;
+  background-color: white;
+  height: 540px;
+  position: relative;
+  top: 10px;
+  left: 66px;
+  border-radius: 10px;
+}
+table{
+    width: 90%;
+   
+    
+}
+
+
+td,
+th {
+  text-align: center;
+  padding: 15px;
+  border-bottom: 2px solid gray;
+}
+.homepage{
+    font-size: 40px;
+    font-weight: bold
+
+}
+.contactus{
+    font-size: 40px;
+    font-weight: bold;
+}
